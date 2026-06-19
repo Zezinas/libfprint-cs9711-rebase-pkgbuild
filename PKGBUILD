@@ -7,7 +7,7 @@ pkgver=1.94.10+1.r1866.20260216.02b285c
 pkgrel=1
 pkgdesc="libfprint with CS9711 fingerprint driver support (personal fork, cs9711-rebase branch)"
 arch=(x86_64)
-url="https://github.com/archeYR/libfprint-CS9711"
+url="https://github.com/Zezinas/libfprint-CS9711"
 license=(LGPL-2.1-or-later)
 depends=(
   gcc-libs

@@ -1,4 +1,4 @@
-pkgbase = libfprint-cs9711-rebase-git
+pkgbase = libfprint-cs9711-rebase-git-zez
 	pkgdesc = libfprint with CS9711 fingerprint driver support (archeYR fork, cs9711-rebase branch)
 	pkgver = 1.94.10.r1866.20260216.02b285c
 	pkgrel = 1
@@ -34,4 +34,4 @@ pkgbase = libfprint-cs9711-rebase-git
 	source = git+https://github.com/Zezinas/libfprint-CS9711.git#branch=cs9711-rebase
 	sha256sums = SKIP
 
-pkgname = libfprint-cs9711-rebase-git
+pkgname = libfprint-cs9711-rebase-git-zez

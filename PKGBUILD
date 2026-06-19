@@ -1,7 +1,7 @@
 # Maintainer: Zezinas
 # Based on AUR package by reburn <au0228@outlook.com>
 
-pkgname=libfprint-cs9711-rebase-git
+pkgname=libfprint-cs9711-rebase-git-zez
 _pkgname=libfprint-CS9711
 pkgver=1.94.10+1.r1866.20260216.02b285c
 pkgrel=1
